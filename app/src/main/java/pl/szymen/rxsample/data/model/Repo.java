@@ -9,10 +9,6 @@ public class Repo {
 
     @SerializedName("name") String mName;
 
-    public Repo(String username) {
-        mName = username;
-    }
-
     public String getName() {
         return mName;
     }
