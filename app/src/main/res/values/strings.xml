@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="github_username">Github username</string>
+    <string name="user_repos">User repos:</string>
+    <string name="notice">Notice: Limit of requests to Github api: 60 per hour</string>
+    <string name="error_limit_exceeded">Github api limit exceeded.</string>
+    <string name="error_invalid_user">Can\'t find user.</string>
+</resources>
